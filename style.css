@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-size: 300%;
+}
+body{
+    background-color: lightgray;
+}
+p{
+    font-size: 150%;
+    color:black
+}
+a{
+    color:green
+}
+h3{
+    font-size: 200%;
+}
+p{
+    font-style:oblique;
+}
+footer{
+    text-align: right;
+}
